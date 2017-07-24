@@ -2,6 +2,9 @@
 
 Created by : Sameer Sharma
 
+Dataset link:
+http://archive.ics.uci.edu/ml/datasets/cmu+face+images
+
 **Sunglasses Recognizer**
 
 training file- straightrnd_train.list.
