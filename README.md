@@ -1,6 +1,7 @@
 # Face-sunglass-and-pose-recogniser-using-neural-networks
 
 Created by : Sameer Sharma
+
 **Sunglasses Recognizer**
 
 training file- straightrnd_train.list.
